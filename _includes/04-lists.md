@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Thins to do:
+*test bullets
+*add more to list
+	*test sub bullets
+		*really make sure that indents are working in vim
