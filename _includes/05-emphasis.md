@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+** Learning Bash **
+* I have a basic knowledge of linux/unix terminal
+* Can excute commands to accomplish most basic computing tasks
+* willing to learn more
+** Have Taught Coding in Past **
+* Taught Computer Science I
+  * JavaScript
+  * CSS
+  * HTML5
+
+ 
